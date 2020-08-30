@@ -1,2 +1,3 @@
-# python_skku
-성균공부방 10회분 파이썬 강의를 정리했습니다. 
+# Python
+Scuba's day by day Basic python practice.
+<h1><img src="https://cdn.auth0.com/blog/python-restful/logo.png" alt="page.title"></h1>

@@ -61,3 +61,4 @@ for a in numbers:
 numbers = [1,2,3,4,5]
 result = [result*2 for result in numbers if result %2 ==1 ]
 print(result)
+

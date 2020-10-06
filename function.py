@@ -55,3 +55,10 @@ print(result)
 test = lambda a,b: a*b
 result = test(5,6)
 print(result)
+
+number = input("숫자를 입력하세요: ")
+print(number)
+
+for i in range(10):
+    print(i, end='👀')
+
